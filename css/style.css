@@ -28,7 +28,7 @@ body{
 body::after {
     content: "";
     position: absolute;
-    height: inherit;
+    height: 190vh;
     width: 100%;
     top: 0;
     left: 0;
